@@ -24,8 +24,8 @@ body{
     margin: 50px 0px;
 }
 .container{
-    width: 70%;
-    border:1px solid whitesmoke;
+    width: 80%;
+    margin: 30px auto;
     border-radius: 20px;
 }
 
